@@ -1,4 +1,4 @@
-### Count of Positives, Sum of Negatives
+### Removing Elements from Array
 ------------------------------------------
 ##### **This is a CodeWars Challenge
 
